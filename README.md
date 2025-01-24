@@ -8,3 +8,11 @@
 
 ## Plataforma cívica de datos abiertos de México 
 > Diccionario de datos, [datamx](https://datamx.io/dataset/salud-materna-y-perinatal)
+
+
+## Heart attack risk dataset
+> Datos extraidos de kaggle, [Arif Miah](https://www.kaggle.com/datasets/arifmia/heart-attack-risk-dataset)
+
+
+## Movie Recommendation dataset
+> Datos extraidos de kaggle, [Ibtesam Ahmed](https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system)
